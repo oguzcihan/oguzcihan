@@ -21,7 +21,7 @@ I'm **Oğuzhan Cihan**, I am a 4th grade student in Düzce University Computer E
 <br>
 <br>
 
-[![oguzcihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzcihan)](https://github.com/oguzcihan/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzcihan)
 
 
 
