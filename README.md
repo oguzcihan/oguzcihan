@@ -3,6 +3,7 @@
 I'm **Oğuzhan Cihan**, I am a 4th grade student in Düzce University Computer Engineering. The purpose of this website is to give some information about myself and my skills. At the same time, bringing my experiences to the fore.
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 <br>
+<br>
 **Contacts**
 <br>
 <img align="left" alt="Oguz's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/oguzcihan/">LinkedIn</a>
@@ -14,8 +15,8 @@ I'm **Oğuzhan Cihan**, I am a 4th grade student in Düzce University Computer E
 <br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <br>
 <br>
 
