@@ -6,7 +6,8 @@ I'm **Oğuzhan Cihan**, I am a 4th grade student in Düzce University Computer E
 <br>
 **Contacts**
 <br>
-<img align="left" alt="Oguz's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/oguzcihan/" target="_blank">LinkedIn</a>
+<img align="left" alt="Oguz's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
+<a href="https://www.linkedin.com/in/oguzcihan/" target="_blank">LinkedIn</a>
 <br>
 
 
