@@ -1,6 +1,6 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm **Oğuzhan Cihan**, I am a 4th grade student in Düzce University Computer Engineering.
+I'm **Oğuzhan Cihan**, I am a 4th grade student in Duzce University Computer Engineering.
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 <br>
 <br>
