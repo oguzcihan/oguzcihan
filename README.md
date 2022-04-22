@@ -3,13 +3,6 @@
 I'm **Oğuzhan Cihan**, I graduated from Düzce University, Computer Engineering.
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 <br>
-<br>
-**Contacts**
-<br>
-<img align="left" alt="Oguz's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
-<a href="https://www.linkedin.com/in/oguzcihan/" target="_blank">LinkedIn</a>
-<br>
-
 
 
 **Case Studies and Analysis using Languages**  
