@@ -24,6 +24,7 @@ I'm **Oğuzhan Cihan**, I graduated from Düzce University, Computer Engineering
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzcihan)
 
+![Profile views](https://gpvc.arturio.dev/oguzcihan)  
 
 
 
