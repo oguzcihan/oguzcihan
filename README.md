@@ -26,7 +26,7 @@
   </p>
 
   <hr>
-  <h2 align="center">Technologies
+  <h2 align="left">Technologies
 </h2>
   <br>
   <p align="center">
