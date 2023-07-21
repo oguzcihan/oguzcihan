@@ -30,7 +30,7 @@
   <br>
   <p align="center">
     <p align="left"> 
-     <a title="Go"> <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="git" width="30" height="30"/> </a>
+     <a title="Go"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> </a>
      <a title="CSharp" href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
 <a title=".Net Core Framework" href="https://dotnet.microsoft.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/>
 <a><img title="Java" height="25" src="https://raw.githubusercontent.com/oguzcihan/oguzcihan/main/images/java-logo.png"></a>
