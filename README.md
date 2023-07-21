@@ -30,13 +30,13 @@
   <br>
   <p align="center">
     <p align="left"> 
+     <a title="Go"> <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="git" width="30" height="30"/> </a>
      <a title="CSharp" href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
 <a title=".Net Core Framework" href="https://dotnet.microsoft.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/>
 <a><img title="Java" height="25" src="https://raw.githubusercontent.com/oguzcihan/oguzcihan/main/images/java-logo.png"></a>
 <img title="Python" height="25" src="https://raw.githubusercontent.com/oguzcihan/oguzcihan/main/images/python.png">
 <img title="Flask" height="25" src="https://raw.githubusercontent.com/oguzcihan/oguzcihan/main/images/flask.png">
 <a href="https://git-scm.com/" title="Git" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
-<a title="Go"> <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
