@@ -17,7 +17,7 @@
     <br>
     🎓 I graduated from Duzce University Computer Engineering
     <br>
-    📚 I am currently working as a backend developer with C# language. In addition, I work on sentiment analysis.
+    📚 I am currently working as a Backend Developer with Go, Spring Boot, Asp.Net Core languages. In addition, I work on sentiment analysis.
     <br>
     💬 Ask me anything about from <a href="https://github.com/oguzcihan/oguzcihan/issues" title="Issues">Here</a>
     <br>
