@@ -113,31 +113,16 @@ contact:     oguzcihan12@gmail.com
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=flat-square&logo=primeng&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 
-<details>
-  <summary><b>Previously worked with</b></summary>
-
-  ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-  ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-  ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-  ![NHibernate](https://img.shields.io/badge/NHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-  ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=flat-square&logo=liquibase&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-  Used these in earlier roles (.NET Framework / Spring.NET / ASP.NET Core / Angular + Kendo) but no longer my day-to-day stack.
-</details>
-
 ---
 
 ### GitHub Stats
 
 <p align="center">
   <a href="https://github.com/oguzcihan">
-    <img height="165" alt="Oğuzhan's GitHub stats" src="https://github-readme-stats.hackclub.dev/api?username=oguzcihan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight">
+    <img height="165" alt="Oğuzhan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=oguzcihan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight">
   </a>
   <a href="https://github.com/oguzcihan">
-    <img height="165" alt="Top languages" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=oguzcihan&layout=compact&hide_border=true&langs_count=8&theme=tokyonight">
+    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzcihan&layout=compact&hide_border=true&langs_count=8&theme=tokyonight">
   </a>
 </p>
 
