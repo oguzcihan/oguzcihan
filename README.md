@@ -105,7 +105,7 @@ contact:     oguzcihan12@gmail.com
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-**Frontend (when needed)**
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -119,10 +119,16 @@ contact:     oguzcihan12@gmail.com
 
 <p align="center">
   <a href="https://github.com/oguzcihan">
-    <img height="165" alt="Oğuzhan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=oguzcihan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight">
+    <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzcihan&theme=tokyonight">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/oguzcihan">
+    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oguzcihan&theme=tokyonight">
   </a>
   <a href="https://github.com/oguzcihan">
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzcihan&layout=compact&hide_border=true&langs_count=8&theme=tokyonight">
+    <img alt="Most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oguzcihan&theme=tokyonight">
   </a>
 </p>
 
