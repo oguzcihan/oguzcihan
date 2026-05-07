@@ -75,9 +75,15 @@ Currently, I work on enterprise integration platforms using **Spring Boot, Camun
 
 ---
 
-## GitHub Stats
+---
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=oguzcihan&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzcihan&layout=compact&theme=github_dark&hide_border=true" />
+## Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/oguzcihan/">
+    <img src="https://img.shields.io/badge/LinkedIn-oguzcihan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:oguzcihan12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-oguzcihan12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
